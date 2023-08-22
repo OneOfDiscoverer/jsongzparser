@@ -1,3 +1,0 @@
-{"field1":1, "field2": "a", "field3": "b", "field4": {"subfield1": true}}
-{"field1":2, "field2": "g", "field4": {"subfield1": false}}
-{"field1":3, "field2": "z", "field4": {"subfield1": true}}
