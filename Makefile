@@ -1,7 +1,7 @@
 BIN := extractFields
 SOURCES := main.c
 HEADERS := 
-CFLAGS := -g
+CFLAGS := 
 LDFLAGS := -lz
 
 CC := gcc
